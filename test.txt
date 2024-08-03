@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 first  
 
 devtwo  1
+<<<<<<< HEAD
 
 thr
+=======
+=======
+test
+>>>>>>> 8cef5a131eefc16e65437fb95deb150fd946c437
+>>>>>>> 4adb970b28d3a7abdefebc2869033226dd1f1ae6
